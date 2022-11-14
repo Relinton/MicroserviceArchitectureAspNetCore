@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{60A0CDE5-E79
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{913844C3-B7C9-4B5D-907A-8D2AFDB5D5AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Microservice", "Produto.Microservice\Produto.Microservice.csproj", "{134341D0-BD3F-4630-BA21-8F3699E3890A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Microservice", "Produto.Microservice\Produto.Microservice.csproj", "{134341D0-BD3F-4630-BA21-8F3699E3890A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente.Microservice", "Cliente.Microservice\Cliente.Microservice.csproj", "{278F10C1-8497-473F-8134-6F67C8C5AEF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cliente.Microservice", "Cliente.Microservice\Cliente.Microservice.csproj", "{278F10C1-8497-473F-8134-6F67C8C5AEF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.WebApi", "Gateway.WebApi\Gateway.WebApi.csproj", "{9D6F0CB0-7FA8-4449-8F94-EC0E07ADFD99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway.WebApi", "Gateway.WebApi\Gateway.WebApi.csproj", "{9D6F0CB0-7FA8-4449-8F94-EC0E07ADFD99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

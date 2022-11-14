@@ -29,6 +29,7 @@ namespace Cliente.Microservice
             #region Swagger
             services.AddSwaggerGen(c =>
             {
+               // c.IncludeXmlComments(string.Format(@"{0}\Cliente.Microservice.xml", System.AppDomain.CurrentDomain.BaseDirectory));
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",

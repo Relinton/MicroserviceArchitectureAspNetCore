@@ -22,7 +22,7 @@ namespace Cliente.Microservice.Controllers
         {
             _context.Clientes.Add(cliente);
             await _context.SaveChanges();
-            return Ok(cliente.Id);
+            return Ok(cliente);
         }
 
         [HttpGet]
